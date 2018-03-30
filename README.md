@@ -7,8 +7,7 @@
 ### Synatx for autoLink 
 
  `android:autoLink="VALUE"`
-  Where **VALUE** is replaced with the below mentioned attributes
-   
+  Where **VALUE** is replaced with the below mentioned attributes  
   * `all` ----> Match all patterns (equivalent to web|email|phone|map).
   * `email` ----> Match email addresses.
   * `map` ----> Match map addresses.
