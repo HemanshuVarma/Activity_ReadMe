@@ -9,7 +9,14 @@
 
 > android:autoLink="VALUE"
   Where **VALUE** is replaced with the below mentioned attributes
-<img src="https://3.bp.blogspot.com/-Se-uwwrE_uk/Wr4xq4pixPI/AAAAAAAAZqw/X9IXgT6P610xmegsyjWtk15opMAgFO-HgCLcBGAs/s320/autoLink.JPG">
+   
+   `all`      Match all patterns (equivalent to web|email|phone|map).
+   `email`    Match email addresses.
+   `map`      Match map addresses.
+   `none`     Match no patterns (default).
+   `phone`    Match phone numbers.
+   `web`      Match Web URLs.
+   
   
   
   
