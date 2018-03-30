@@ -10,12 +10,12 @@
 > android:autoLink="VALUE"
   Where **VALUE** is replaced with the below mentioned attributes
    
-   `all` \t\t Match all patterns (equivalent to web|email|phone|map).</br>
-   `email` \t\t Match email addresses.</br>
-   `map` \t\t Match map addresses.</br>
-   `none` \t\t Match no patterns (default).</br>
-   `phone` \t\t Match phone numbers.</br>
-   `web` \t\t Match Web URLs.</br>
+   `all` ----> Match all patterns (equivalent to web|email|phone|map).</br>
+   `email` ----> Match email addresses.</br>
+   `map` ----> Match map addresses.</br>
+   `none` ----> Match no patterns (default).</br>
+   `phone` ----> Match phone numbers.</br>
+   `web` ----> Match Web URLs.</br>
    
   
   
