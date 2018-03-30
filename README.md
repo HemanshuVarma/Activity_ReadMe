@@ -9,7 +9,7 @@
 
 > android:autoLink="VALUE"
   Where **VALUE** is replaced with the below mentioned attributes
-<img src="E:\IMAGES\Hemanshu\Udacity\Google India Challenge Scholarship\Error\autoLink.jpg">
+<img src="https://3.bp.blogspot.com/-Se-uwwrE_uk/Wr4xq4pixPI/AAAAAAAAZqw/X9IXgT6P610xmegsyjWtk15opMAgFO-HgCLcBGAs/s320/autoLink.JPG">
   
   
   
