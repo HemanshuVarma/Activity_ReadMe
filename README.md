@@ -41,16 +41,16 @@
 	android:layout_margin="5dp">
 </TextView>
 
-> 3. android:autoLink=”web”
+* 3. android:autoLink=”web”
 
-<TextView
+`<TextView
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
 	android:text="www.udacity.com"
 	android:autoLink="web"
 	android:textSize="16sp"
 	android:layout_margin="5dp">
-</TextView>
+</TextView>`
 
 > 4. android:autoLink=”map”
 
