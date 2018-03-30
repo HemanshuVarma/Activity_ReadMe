@@ -21,14 +21,14 @@
 
 1. android:autoLink=”email”
 
-```<TextView </br>
+<TextView </br>
 	android:layout_width="wrap_content" 
 	android:layout_height="wrap_content"
 	android:text="support@udacity.com"
 	android:autoLink="email"
 	android:textSize="16sp"
 	android:layout_margin="5dp">
-</TextView>```
+</TextView>
 
 2. android:autoLink=”phone”
 
