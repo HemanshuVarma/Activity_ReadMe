@@ -20,7 +20,7 @@
 ### Example for autoLink attribute
 
 1. android:autoLink=”email”
-
+`
 <TextView
 	android:layout_width="wrap_content" 
 	android:layout_height="wrap_content"
@@ -29,7 +29,7 @@
 	android:textSize="16sp"
 	android:layout_margin="5dp">
 </TextView>
-
+`
 2. android:autoLink=”phone”
 
 <TextView
