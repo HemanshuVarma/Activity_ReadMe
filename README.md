@@ -17,6 +17,5 @@
   * `phone` ----> Match phone numbers.</br>
   * `web` ----> Match Web URLs.</br>
    
-### Example for autoLink attributes    
    
-   [Official Doc by Dev's](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink)
+   [Learn More](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink)
