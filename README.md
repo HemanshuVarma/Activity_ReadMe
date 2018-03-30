@@ -1,5 +1,4 @@
 # How to add autoLink in android
-</br>
 <img src ="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/android_ambassador_v1_cmyk_200px.max-2800x2800.png" height="250" width="250">
 
 ### What is autoLink
