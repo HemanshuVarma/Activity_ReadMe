@@ -19,18 +19,18 @@
    
 ### Example for autoLink attribute
 
-> 1. android:autoLink=”email”
+1. android:autoLink=”email”
 
-<TextView
-	android:layout_width="wrap_content"
+```<TextView </br>
+	android:layout_width="wrap_content" 
 	android:layout_height="wrap_content"
 	android:text="support@udacity.com"
 	android:autoLink="email"
 	android:textSize="16sp"
 	android:layout_margin="5dp">
-</TextView>
+</TextView>```
 
-> 2. android:autoLink=”phone”
+2. android:autoLink=”phone”
 
 <TextView
 	android:layout_width="wrap_content"
@@ -41,7 +41,7 @@
 	android:layout_margin="5dp">
 </TextView>
 
-* 3. android:autoLink=”web”
+3. android:autoLink=”web”
 
 `<TextView
 	android:layout_width="wrap_content"
@@ -52,7 +52,7 @@
 	android:layout_margin="5dp">
 </TextView>`
 
-> 4. android:autoLink=”map”
+4. android:autoLink=”map”
 
 <TextView
 	android:layout_width="wrap_content"
