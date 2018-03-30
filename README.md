@@ -6,15 +6,15 @@
   
 ### Synatx for autoLink 
 
- `android:autoLink="VALUE"` </br>
+ `android:autoLink="VALUE"`
   Where **VALUE** is replaced with the below mentioned attributes
    
-  * `all` ----> Match all patterns (equivalent to web|email|phone|map).</br>
-  * `email` ----> Match email addresses.</br>
-  * `map` ----> Match map addresses.</br>
-  * `none` ----> Match no patterns (default).</br>
-  * `phone` ----> Match phone numbers.</br>
-  * `web` ----> Match Web URLs.</br>
+  * `all` ----> Match all patterns (equivalent to web|email|phone|map).
+  * `email` ----> Match email addresses.
+  * `map` ----> Match map addresses.
+  * `none` ----> Match no patterns (default).
+  * `phone` ----> Match phone numbers.
+  * `web` ----> Match Web URLs.
    
 ### Example for autoLink attribute
 
