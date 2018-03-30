@@ -8,7 +8,7 @@
 
  `android:autoLink="VALUE"`
   Where **VALUE** is replaced with the below mentioned attributes  
-  * `all` ----> Match all patterns (equivalent to web|email|phone|map).
+  * `all` ----> Match all patterns -- equivalent to web, email, phone, map.
   * `email` ----> Match email addresses.
   * `map` ----> Match map addresses.
   * `none` ----> Match no patterns (default).
