@@ -17,4 +17,4 @@
    `phone` ----> Match phone numbers.</br>
    `web` ----> Match Web URLs.</br>
    
-   ![Read More](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink)
+   [Read More](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink)
