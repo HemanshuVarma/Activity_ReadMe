@@ -18,7 +18,7 @@
    
 ### Example for autoLink attribute
 
-1. android:autoLink=”email”
+* android:autoLink=”email”
 
 ```
 <TextView
@@ -31,8 +31,9 @@
 </TextView>
 ```
 
-2. android:autoLink=”phone”
+* android:autoLink=”phone”
 
+```
 <TextView
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
@@ -41,9 +42,11 @@
 	android:textSize="16sp"
 	android:layout_margin="5dp">
 </TextView>
+```
 
-3. android:autoLink=”web”
+* android:autoLink=”web”
 
+```
 <TextView
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
@@ -52,9 +55,11 @@
 	android:textSize="16sp"
 	android:layout_margin="5dp">
 </TextView>
+```
 
-4. android:autoLink=”map”
+* android:autoLink=”map”
 
+```
 <TextView
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
@@ -63,5 +68,6 @@
 	android:textSize="16sp"
 	android:layout_margin="5dp">
 </TextView>
+```
 
    [Learn More](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink)
