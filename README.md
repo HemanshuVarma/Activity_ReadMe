@@ -17,5 +17,51 @@
   * `phone` ----> Match phone numbers.</br>
   * `web` ----> Match Web URLs.</br>
    
-   
+### Example for autoLink attribute
+
+> 1. android:autoLink=”email”
+
+<TextView
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="support@udacity.com"
+	android:autoLink="email"
+	android:textSize="16sp"
+	android:layout_margin="5dp">
+</TextView>
+
+> 2. android:autoLink=”phone”
+
+<TextView
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="0987654321"
+	android:autoLink="phone"
+	android:textSize="16sp"
+	android:layout_margin="5dp">
+</TextView>
+
+> 3. android:autoLink=”web”
+
+<TextView
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="www.udacity.com"
+	android:autoLink="web"
+	android:textSize="16sp"
+	android:layout_margin="5dp">
+</TextView>
+
+> 4. android:autoLink=”map”
+
+<TextView
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="381 Park Avenue South, New York"
+	android:autoLink="map"
+	android:textSize="16sp"
+	android:layout_margin="5dp">
+</TextView>
+
+
    [Learn More](https://developer.android.com/reference/android/widget/TextView.html#attr_android:autoLink)
